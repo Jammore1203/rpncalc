@@ -1,0 +1,4 @@
+#!/bin/sh
+# rpncalc launcher: runs the Forth source with gforth.
+here=$(cd "$(dirname "$(readlink -f "$0")")/.." && pwd)
+exec gforth "$here/rpncalc.fs" "$@"

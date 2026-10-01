@@ -1,0 +1,4 @@
+dec 80  hex 0x50  oct 0o120  bin 0b0101_0000  char 'P'
+stack: 1 2 3 
+dec 3  hex 0x3  oct 0o3  bin 0b0011
+dec 5  hex 0x5  oct 0o5  bin 0b0101
